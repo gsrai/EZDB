@@ -6,6 +6,7 @@
  *
  *  For additional information go to:
  *  github.com/humourless/EZDB
+ *  
  */
 
 #ifndef EZDB_main_h
